@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color:#65d1ed;
+}
+
+h2 {
+    text-align: center;
+    color:#65d1ed;
+}
+
+p {
+    text-indent: 20px;
+    color:#fa7a58;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+h3 {
+    text-indent: 15px;
+    font-family: "Playwrite NL", cursive;
+    font-size:medium;
+    font-weight: normal;
+    font-style: normal;
+    color:#c25e44;
+}
+
+footer {
+    text-align: center;
+    color:black; 
+  }
